@@ -1,2 +1,2 @@
 # 42cursus_libft
-This project is about coding a C library.
+#Libft 70H Pass with bonus Rigor, Algorithms & AI, Imperative programming November 30, 2023
