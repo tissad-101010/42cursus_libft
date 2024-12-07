@@ -1,9 +1,7 @@
 # 42cursus_libft
 Libft 70H Pass with bonus Rigor, Algorithms & AI, Imperative programming November 30, 2023
 <!-- add res.jpg hehe-->
-<a href="#">
-  <img align="left" height=200  src="res.ipg" />
-</a>
+![Libft res](res.jpg)
 
 ### Targeted Skills
 By completing this project, i acquire skills in C programming:
